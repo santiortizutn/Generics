@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\SolucionGenerics\ConsolaGenerics\bin\Debug\ConsolaGenerics.exe.config
+D:\Pollio Juan Martin\SolucionGenerics\ConsolaGenerics\bin\Debug\ConsolaGenerics.exe
+D:\Pollio Juan Martin\SolucionGenerics\ConsolaGenerics\bin\Debug\ConsolaGenerics.pdb
+D:\Pollio Juan Martin\SolucionGenerics\ConsolaGenerics\obj\Debug\ConsolaGenerics.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\SolucionGenerics\ConsolaGenerics\obj\Debug\ConsolaGenerics.exe
+D:\Pollio Juan Martin\SolucionGenerics\ConsolaGenerics\obj\Debug\ConsolaGenerics.pdb
